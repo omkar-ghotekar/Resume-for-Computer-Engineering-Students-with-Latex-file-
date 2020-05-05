@@ -1,0 +1,176 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Rishi Shah 
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{OMKAR GHOTEKAR} % Your name
+\address{Swapnapurti-1 Flat-102, Bldg-4/A Pradhikaran Nigdi Pune-411044 } % Your address
+%\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
+\address{(+91)9604662462 \\ oghotekar6426@gmail.com} % Your phone number and email
+\begin{document}         
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Carrier Objective}
+ Goal-oriented Web Developer with strong commitment to collaboration and solutions-oriented problem-solving.
+ \\Programmer successful at managing teams, driving progress toward project milestones, quality assurance and on-time delivery.
+ \\To work for an organization which provides me the opportunity to improve my skills and knowledge to grow along with the organization objective.
+\end{rSection}
+
+\begin{rSection}{Education}
+
+{\bf Pimpri Chinchwad College of Engineering \& Research, Ravet} \hfill {\em June 2017 - Present} 
+\\ Bachelor in Computer Engineering
+\\ Department of Computer science and Engineering\\
+ { Current CGPA: 9.13 }
+ 
+ {\bf Shri. Mhalsakant Vidyalaya, Akurdi} \hfill {2015 - 2017} 
+\\ Higher Secondary School\\{ Overall Percentage: 83.3 }
+
+ {\bf Jnana Prabodhini Navanagar Vidyalaya, Nigdi} \hfill {2015} 
+\\ Secondary School\\{ Overall Percentage: 95 }
+%Minor in Linguistics \smallskip \\
+%Member of Eta Kappa Nu \\
+%Member of Upsilon Pi Epsilon \\
+
+
+\end{rSection}
+
+%--------------------------------------------------------------------------------
+%    Projects And Seminars
+%-----------------------------------------------------------------------------------------------
+
+
+\begin{rSection}{Projects}
+{\bf Navlakh-Umbre E-grampanchayat App}
+{\newline Android App Application} 
+\\
+Researched, designed and implemented scalable applications for information identification, extraction, analysis, retrieval and indexing.
+Collaborated on all stages of systems development lifecycle, from requirements gathering to production releases.
+\\
+
+{\bf Elderly Care System}
+{\newline Android Software Development} 
+\\
+Built, tested and deployed scalable, highly available and modular software products.\\
+Fulfillment of the special needs and requirements that are unique to senior citizens.
+\\
+
+{\bf Dino Game Using Image Recognition}
+{\newline Mini Project} 
+\\
+The Chrome Dino game is a simple infinite runner, which sees you jump over cacti, and dodge underneath obstacles.
+Image Recognition in python for detecting the obstacles in path.
+\\
+
+{\bf Hostel Management System}
+{\newline Mini Project} 
+\\Collaborated on all stages of systems development life cycle, from requirements gathering to production releases.
+
+\end{rSection}
+\pagebreak
+\begin{rSection}{Technical Strengths}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Languages \ & C++,Java,Python Basics\\
+Web Technologies \  & HTML, CSS, JavaScript, Jquery\\
+Database Technologies \ & Oracle11g, Mysql, MongoDB\\
+Technology Frameworks \ & Android Studio, Apache Cordova, Bootstrap, MEAN Stack\\
+Other Software \& Tools & Firebase, WordPress, Eclipse, Git, Github\\
+\end{tabular}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Work Experience}
+
+\begin{rSubsection}{Theervu-Biz LLP Pvt. Ltd.}{Feb 2020 - March 2020}
+{Web Developer Intern}
+\par \item \hspace{12mm}Developed user interfaces with modern JavaScript frameworks, HTML5 and CSS3.
+\par \item \hspace{12mm}Utilized scripting languages, content creation tools, management tools, to design website.
+\par \item \hspace{12mm}Link:\url{http://www.theervu.in}
+\end{rSubsection}
+
+
+\begin{rSubsection}{IconsTeam Pvt. Ltd.}{April 2020 - May 2020 }
+{Project Intern(Android Development)}
+\par \item \hspace{12mm}Design and build advanced applications for the Android platform.
+\par \item \hspace{12mm}Collaborate with cross-functional teams to define, design, and ship new features.
+
+\end{rSubsection}
+
+
+\begin{rSubsection}{Cognitive-Works AI Pvt. Ltd.}{Feb 2020 - March 2020}
+{Project Intern(Web Development)}
+\par \item \hspace{12mm}Created website layout/user interface by using standard HTML/CSS practices.
+\par \item \hspace{12mm}Link:\url{http://www.cognitiveworksai.com}
+\end{rSubsection}
+
+
+\begin{rSubsection}{Afpha Infocom Pvt. Ltd.}{March 2020 - April 2020 }
+{Project Intern(Web Development)}
+\par \item \hspace{12mm} Professional Website development for a venture named Felis Leo Pvt.Ltd. using basics tools of development like HTML, CSS and Javascript.
+\end{rSubsection}
+
+
+\begin{rSubsection}{FutureLogica Softwares Pvt. Ltd.}{April 2020 - May 2020 }
+{Web Developer Intern}
+\par \item \hspace{12mm}Cooperated with web designers to match visual design intent.
+\par \item \hspace{12mm}Designed the footer and implemented various models and integrated them in the website. 
+\par \item \hspace{12mm}Link:\url{http://www.mycityevents.org}
+\end{rSubsection}
+
+
+
+
+\end{rSection}
+
+
+%	EXAMPLE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Volunteering And Position of Responsibility}
+\textbf{Technovate Head PCCOE\&R 2020}
+\item \hspace{12mm} The Managing Head of the Computer Dept. under the Technovate-2020 event organised in January 2020 at PCCOE\&R.\\
+\textbf{National Olympiad Campus Ambassador}
+\item \hspace{12mm} Organised sessions in college as the National Olympiad Campus Ambassador and got certifies for it as well.
+
+\end{rSection}
+
+
+
+%----------------------------------------------------------------------------------------
+% Extra Curricular
+%----------------------------------------------------------------------------------------
+
+
+\begin{rSection}{Personal Traits}
+\item Highly motivated and eager to learn new things.
+\item Ability to work as an individual as well as in group.
+\end{rSection}
+\end{document}
